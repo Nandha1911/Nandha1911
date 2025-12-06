@@ -41,17 +41,36 @@ I combine **physics-based simulation**, **data-driven modeling**, and **numerica
 
 ## 🛠️ Technical Skill Set
 
-**Simulation & CAE:**  
-Abaqus • ANSYS Mechanical • ANSYS Fluent • Hypermesh • SolidWorks • Siemens NX • Creo 2.0
+### 🎯 Simulation & CAE
+![Abaqus](https://img.shields.io/badge/Abaqus-1E90FF?style=for-the-badge&logo=)]
+![ANSYS Mechanical](https://img.shields.io/badge/ANSYS%20Mechanical-FFB300?style=for-the-badge&)
+![ANSYS Fluent](https://img.shields.io/badge/ANSYS%20Fluent-009999?style=for-the-badge&)
+![Hypermesh](https://img.shields.io/badge/Hypermesh-FF6F61?style=for-the-badge&)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&)
+![Siemens NX](https://img.shields.io/badge/Siemens%20NX-0088CC?style=for-the-badge&)
+![Creo](https://img.shields.io/badge/Creo%202.0-2E8B57?style=for-the-badge&)
 
-**Programming & Scientific Computing:**  
-Python • C++ • MATLAB • Bash • MPI (OpenMPI)
+### 💻 Programming & Scientific Computing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI%20(OpenMPI)-4B0082?style=for-the-badge&)
 
-**Machine Learning & Data Tools:**  
-PyTorch • scikit-learn • NumPy • pandas • Matplotlib
+### 🤖 Machine Learning & Data Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&)
 
-**Additional Tools:**  
-Git • Linux • Overleaf/LaTeX • SAP MM • HPC Environments
+### ⚙️ Additional Tools & Environments
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&)
+![SAP MM](https://img.shields.io/badge/SAP%20MM-0FAAFF?style=for-the-badge&)
+![HPC](https://img.shields.io/badge/HPC%20Environments-6A5ACD?style=for-the-badge&)
+
 
 ---
 
