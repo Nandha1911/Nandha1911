@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nandha Gopal Mariappan</h1>
 
 <p align="center">
-  <strong>Thermal Simulation Engineer • Computational Materials Scientist • FEM/XFEM Specialist • Python Automation • Electronics Reliability</strong>
+  <strong>Thermal Simulation Engineer • Computational Materials Scientist • FEM/XFEM Specialist • Python Automation • Machine Learning/Deep Learning • Electronics Reliability</strong>
 </p>
 
 ---
